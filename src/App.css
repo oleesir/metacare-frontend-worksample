@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'gelion';
+	src: url(fonts/Gelion\ Regular.ttf);
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'gelion-semi-bold';
+	src: url(fonts/Gelion\ SemiBold.ttf);
+	font-style: bold;
+	font-weight: 600;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'gelion';
+	box-sizing: border-box;
+}
